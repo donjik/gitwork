@@ -1,0 +1,15 @@
+D:\mini\pao\pao\bin\Debug\pao.exe
+D:\mini\pao\pao\bin\Debug\pao.pdb
+D:\mini\pao\pao\bin\Debug\pao.xml
+D:\mini\pao\pao\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mini\pao\pao\obj\x86\Debug\pao.Form1.resources
+D:\mini\pao\pao\obj\x86\Debug\pao.Resources.resources
+D:\mini\pao\pao\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mini\pao\pao\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mini\pao\pao\obj\x86\Debug\pao.exe
+D:\mini\pao\pao\obj\x86\Debug\pao.xml
+D:\mini\pao\pao\obj\x86\Debug\pao.pdb
+D:\mini\pao\pao\bin\Debug\pao.exe.manifest
+D:\mini\pao\pao\bin\Debug\pao.application
+D:\mini\pao\pao\obj\x86\Debug\pao.exe.manifest
+D:\mini\pao\pao\obj\x86\Debug\pao.application
